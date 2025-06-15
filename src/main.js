@@ -1,7 +1,7 @@
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
-import router from './Router.js'
+import router from './router.js'
 import Antd from 'ant-design-vue';
 import 'ant-design-vue/dist/reset.css';
 import * as AntDesignIconsVue from '@ant-design/icons-vue'
